@@ -1,0 +1,31 @@
+{
+  "updatedAt": 1788516833066,
+  "reports": {
+    "TEST-CHECK-0000": {
+      "schema": 1,
+      "ts": 1788507000000,
+      "machine": "TEST-CHECK-0000",
+      "subject": "自检单位-自检人",
+      "plan": "permanent",
+      "app": {
+        "code": 30,
+        "name": "2.3.14",
+        "channel": "beta"
+      },
+      "device": {
+        "ua": "Android 14 SelfCheck",
+        "online": true
+      },
+      "counts": {
+        "results": 1,
+        "units": 1,
+        "sources": 1,
+        "projects": 1
+      },
+      "ip": "64.118.128.239",
+      "firstSeen": 1788507000000,
+      "lastSeen": 1788507000000,
+      "seenCount": 1
+    }
+  }
+}
