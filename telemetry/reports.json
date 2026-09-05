@@ -1,4 +1,47 @@
 {
-  "updatedAt": 1788619295780,
-  "reports": {}
+  "updatedAt": 1788620545501,
+  "reports": {
+    "__CHECK0001__": {
+      "schema": 1,
+      "ts": 1788620000000,
+      "installUuid": "check-install-uuid",
+      "activated": true,
+      "machine": "__CHECK0001__",
+      "subject": "核验单位·张三",
+      "plan": "permanent",
+      "app": {
+        "code": 42,
+        "name": "2.3.26",
+        "channel": "beta"
+      },
+      "device": {
+        "ua": "Mozilla/5.0 (Linux; Android 14; PJD110 Build) AppleWebKit wv",
+        "lang": "zh-CN",
+        "online": true
+      },
+      "counts": {
+        "results": 12,
+        "units": 5,
+        "sources": 3,
+        "projects": 2
+      },
+      "project": {
+        "id": "p1",
+        "name": "核验项目",
+        "location": "一号点位",
+        "implementUnit": "施工一组"
+      },
+      "units": [
+        {
+          "id": "u1",
+          "name": "核验单位A",
+          "kind": "配电箱"
+        }
+      ],
+      "ip": "117.67.170.151",
+      "firstSeen": 1788620000000,
+      "lastSeen": 1788620000000,
+      "seenCount": 1
+    }
+  }
 }
