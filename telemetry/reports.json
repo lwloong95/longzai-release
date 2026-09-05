@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788624443803,
+  "updatedAt": 1788624944606,
   "reports": {
     "STRESS-ONLINE-AAAA1111BBBB2222CCCC3333DDDD4444": {
       "schema": 1,
@@ -254,6 +254,45 @@
       "lastSeen": 1788624440341,
       "srvFirstSeen": 1788624443803,
       "srvLastSeen": 1788624443803,
+      "seenCount": 1
+    },
+    "C0DE-1234-5678-9ABC": {
+      "schema": 1,
+      "ts": 1788624944843,
+      "installUuid": "uuid-ledger-probe",
+      "activated": true,
+      "activatedAt": 1788000000000,
+      "machine": "C0DE-1234-5678-9ABC",
+      "subject": "二维码测试单位·探针",
+      "plan": "permanent",
+      "app": {
+        "code": 42,
+        "name": "2.3.26",
+        "channel": "beta"
+      },
+      "device": {
+        "ua": "Mozilla/5.0 (Linux; Android 13; PIXEL Build) wv",
+        "lang": "zh-CN",
+        "online": true
+      },
+      "counts": {
+        "results": 5,
+        "units": 2,
+        "sources": 1,
+        "projects": 1
+      },
+      "project": {
+        "id": "p",
+        "name": "探针项目",
+        "location": "一号楼",
+        "implementUnit": "甲"
+      },
+      "units": [],
+      "ip": "117.67.170.151",
+      "firstSeen": 1788624944843,
+      "lastSeen": 1788624944843,
+      "srvFirstSeen": 1788624944606,
+      "srvLastSeen": 1788624944606,
       "seenCount": 1
     }
   }
