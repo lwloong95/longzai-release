@@ -1,19 +1,4 @@
 {
   "updatedAt": 1788619295780,
-  "reports": {
-    "__SELFTEST__": {
-      "schema": 1,
-      "ts": 1788601000000,
-      "activated": true,
-      "machine": "__SELFTEST__",
-      "app": {
-        "v": "selftest"
-      },
-      "counts": {},
-      "ip": "117.67.170.151",
-      "firstSeen": 1788601000000,
-      "lastSeen": 1788601000000,
-      "seenCount": 1
-    }
-  }
+  "reports": {}
 }
