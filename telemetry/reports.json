@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788623394197,
+  "updatedAt": 1788623395840,
   "reports": {
     "_IRONTEST0001": {
       "schema": 1,
@@ -43,8 +43,8 @@
       "firstSeen": 1788623393680,
       "lastSeen": 1788623393680,
       "srvFirstSeen": 1788623394197,
-      "srvLastSeen": 1788623394197,
-      "seenCount": 1
+      "srvLastSeen": 1788623395840,
+      "seenCount": 2
     }
   }
 }
