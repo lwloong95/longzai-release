@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788624440061,
+  "updatedAt": 1788624442620,
   "reports": {
     "STRESS-ONLINE-AAAA1111BBBB2222CCCC3333DDDD4444": {
       "schema": 1,
@@ -99,6 +99,106 @@
       "lastSeen": 1788624440341,
       "srvFirstSeen": 1788624440061,
       "srvLastSeen": 1788624440061,
+      "seenCount": 1
+    },
+    "STRESS-BETA-EEEE5555FFFF6666GGGG7777HHHH8888": {
+      "schema": 1,
+      "ts": 1788624440341,
+      "installUuid": "uuid-STRESS-BETA-EEEE5555FFFF6666GGGG7777HHHH8888",
+      "activated": true,
+      "activatedAt": 1788000000000,
+      "machine": "STRESS-BETA-EEEE5555FFFF6666GGGG7777HHHH8888",
+      "subject": "乙·李四",
+      "plan": "permanent",
+      "app": {
+        "code": 41,
+        "name": "2.3.41",
+        "channel": "beta"
+      },
+      "device": {
+        "ua": "Mozilla/5.0 (Linux; Android 13; HUAWEI Mate60 Pro Build/TQ3A; wv) AppleWebKit/537.36",
+        "lang": "zh-CN",
+        "online": true
+      },
+      "counts": {
+        "results": 1234,
+        "units": 88,
+        "sources": 6,
+        "projects": 3
+      },
+      "project": {
+        "id": "p-STRESS-BETA-EEEE5555FFFF6666GGGG7777HHHH8888",
+        "name": "短项目",
+        "location": "二号楼",
+        "implementUnit": "实施班组甲乙丙"
+      },
+      "units": [
+        {
+          "id": "u0",
+          "name": "单位条目0号超长名称压测",
+          "kind": "线路"
+        },
+        {
+          "id": "u1",
+          "name": "单位条目1号超长名称压测",
+          "kind": "设备"
+        },
+        {
+          "id": "u2",
+          "name": "单位条目2号超长名称压测",
+          "kind": "线路"
+        },
+        {
+          "id": "u3",
+          "name": "单位条目3号超长名称压测",
+          "kind": "设备"
+        },
+        {
+          "id": "u4",
+          "name": "单位条目4号超长名称压测",
+          "kind": "线路"
+        },
+        {
+          "id": "u5",
+          "name": "单位条目5号超长名称压测",
+          "kind": "设备"
+        },
+        {
+          "id": "u6",
+          "name": "单位条目6号超长名称压测",
+          "kind": "线路"
+        },
+        {
+          "id": "u7",
+          "name": "单位条目7号超长名称压测",
+          "kind": "设备"
+        },
+        {
+          "id": "u8",
+          "name": "单位条目8号超长名称压测",
+          "kind": "线路"
+        },
+        {
+          "id": "u9",
+          "name": "单位条目9号超长名称压测",
+          "kind": "设备"
+        },
+        {
+          "id": "u10",
+          "name": "单位条目10号超长名称压测",
+          "kind": "线路"
+        },
+        {
+          "id": "u11",
+          "name": "单位条目11号超长名称压测",
+          "kind": "设备"
+        }
+      ],
+      "ip": "117.67.170.151",
+      "firstSeen": 1788624440341,
+      "lastSeen": 1788624440341,
+      "srvFirstSeen": 1788624442620,
+      "srvLastSeen": 1788624442620,
       "seenCount": 1
     }
   }
