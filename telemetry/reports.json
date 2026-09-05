@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788620545501,
+  "updatedAt": 1788620811603,
   "reports": {
     "__CHECK0001__": {
       "schema": 1,
@@ -41,7 +41,8 @@
       "ip": "117.67.170.151",
       "firstSeen": 1788620000000,
       "lastSeen": 1788620000000,
-      "seenCount": 1
+      "seenCount": 2,
+      "activatedAt": 1788600000000
     }
   }
 }
